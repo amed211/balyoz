@@ -8,5 +8,7 @@ Since the program uses raw socket, you need to run the program with administrato
 
 It sends over 100 SYN packets in 1 second, just enter the IP address and port number, the program does the rest.
 
+The Balyoz program is coded 100% in C++, because C++ is the programming language with the highest performance and what Python can do in 10 hours, C++ can do in 10 minutes, so the most suitable language for coding DDoS programs is C++.
+
 
 ![GOMCAM 20250326_1438070849](https://github.com/user-attachments/assets/46155190-8eff-47f4-a2e2-76f0563991fb)
