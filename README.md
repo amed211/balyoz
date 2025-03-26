@@ -15,3 +15,7 @@ The Balyoz program is coded 100% in C++, because C++ is the programming language
 
 
 ![GOMCAM 20250326_1438070849](https://github.com/user-attachments/assets/46155190-8eff-47f4-a2e2-76f0563991fb)
+
+
+# Attention important note If used incorrectly, you may cut off your own internet connection.
+The sledgehammer software is a very powerful and destructive software, it sends around 30,000 syn packets per second. If your internet does not have a wide bandwidth to handle 30,000 packets per second, there will be a blockage in your internet bandwidth as soon as you start the attack and your internet will be cut off. Therefore, use the sledgehammer software on internet networks with wide bandwidth.
