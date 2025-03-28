@@ -1,5 +1,7 @@
 # This program has been coded under the scope of Operation 1: Duty ![image](https://github.com/user-attachments/assets/e4a9e0d7-5b78-4e11-a2ec-c235e437ebb9)
 
+![GOMCAM 20250327_1059060272-fotor-bg-remover-202503271101](https://github.com/user-attachments/assets/6bbd9acb-999c-4173-bbd3-c176dba63b65)
+
 
 # BALYOZ ( sledgehammer )
 This repository is coded to teach a lesson to dictators and their supporters who usurp the will of the people and is used with devastating DDoS attacks, but it is useless when used alone, it must be used with a large group or integrated into botnets. WE CAN'T DO ANYTHING ALONE, UNITED WE WILL BE STRONG
